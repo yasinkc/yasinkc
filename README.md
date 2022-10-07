@@ -1,14 +1,12 @@
 - 👋 Hi, I’m @yasinkc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 ## Software Developer
+
 
 Bind > Nginx > Docker > Laravel > MySQL > Redis
 
 HTML < Bootstrap < Jquery < React JS < Pm2
+
 
 ## My Education
 - Anadolu Universitesi - Yönetim Bilişim Sistemleri
