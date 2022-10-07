@@ -5,20 +5,10 @@
 - 📫 How to reach me ...
 
 
-
-
-
-
-<img src="https://yasinilkaya.com.tr/images/skill/bootstrap.png" width="80">
-<img src="https://yasinilkaya.com.tr/images/skill/php.png" width="80">
-<img src="https://yasinilkaya.com.tr/images/skill/redis.png" width="80">
-<img src="https://yasinilkaya.com.tr/images/skill/java.png" width="80">
-<img src="https://yasinilkaya.com.tr/images/skill/nginx.png" width="80">
-<img src="https://yasinilkaya.com.tr/images/skill/jquery.png" width="80">
-<img src="https://yasinilkaya.com.tr/images/skill/laravel.jpg" width="80">
-<img src="https://yasinilkaya.com.tr/images/skill/pm2.png" width="80">
-
-<img src="https://yasinilkaya.com.tr/images/skill/docker.svg" width="80">
+||||||
+|-|-|-|-|-|
+|<img src="https://yasinilkaya.com.tr/images/skill/bootstrap.png" width="80">|<img src="https://yasinilkaya.com.tr/images/skill/php.png" width="80">|<img src="https://yasinilkaya.com.tr/images/skill/redis.png" width="80">|<img src="https://yasinilkaya.com.tr/images/skill/java.png" width="80">|<img src="https://yasinilkaya.com.tr/images/skill/nginx.png" width="80">
+|<img src="https://yasinilkaya.com.tr/images/skill/jquery.png" width="80">|<img src="https://yasinilkaya.com.tr/images/skill/laravel.jpg" width="80">|<img src="https://yasinilkaya.com.tr/images/skill/pm2.png" width="80">|<img src="https://yasinilkaya.com.tr/images/skill/docker.svg" width="80">
 
 
 
