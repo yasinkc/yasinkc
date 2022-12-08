@@ -17,7 +17,7 @@ HTML < Bootstrap < Jquery < React JS < Pm2
 "Siz özgeçmişiniz değilsiniz, siz işinizsiniz." Seth Godin
 > Bazı yetenekler var ki özgeçmişe yazılamıyor.
 
-🌐 Benim web sitem: yasinilkaya.com.tr
+🌐 Benim web sitem: [yasinilkaya.com.tr](https://yasinilkaya.com.tr/)
 
 -----
 
