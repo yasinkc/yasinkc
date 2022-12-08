@@ -14,6 +14,12 @@ HTML < Bootstrap < Jquery < React JS < Pm2
 - Teknik Anadolu Listesi - Web Tasarım  ve Programlama 
 
 
+"Siz özgeçmişiniz değilsiniz, siz işinizsiniz." Seth Godin
+> Bazı yetenekler var ki özgeçmişe yazılamıyor.
+
+🌐 Benim web sitem: yasinilkaya.com.tr
+
+-----
 
 ✨ 7 Ülkeye İhracat
 🎖️ 40+ Tamamlanmış Proje
